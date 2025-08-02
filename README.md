@@ -17,6 +17,6 @@ A custom node for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that lets
 Clone into your `ComfyUI/custom_nodes/` folder:
 
 ```bash
-git clone https://github.com/你的用户名/comfyui_file_manager.git
+git clone https://github.com/QingLuanWithoutHeart/comfyui_file_manager.git
 ```
 Then restart ComfyUI.
